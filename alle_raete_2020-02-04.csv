@@ -1,0 +1,500 @@
+Id,Name,Vorname,Titel,Partei,Wahlkreis,WahlkreisOrderBy,vornachname
+7f7b4dc0-5867-443e-a4d9-15b42f9bdf0a,Abele,Martin,,Grüne,,0,Martin Abele
+891de33c-c98b-4325-b735-b1a078dbc368,Ackermann,Ruth,,CVP,,0,Ruth Ackermann
+5326241e-9551-48bd-9322-1363cc38c5a3,Aebi,Hermann,,Parteilos,,0,Hermann Aebi
+29fe0193-39b8-4945-9e4a-e1bd7a8b177e,Aeschbach,Christian,,FDP,,0,Christian Aeschbach
+afb2e0bc-b941-4fa4-8936-9b4978fc1ee1,Akyol,Ezgi,,AL,4 und 5,102,Ezgi Akyol
+1120806c-4a43-4c41-8ce8-fab680ad1e1d,Albrecht,Patrick,,FDP,,0,Patrick Albrecht
+e88d6153-1fbb-43d3-8384-d3c868f7f45f,Altinay,Petek,,SP,,0,Petek Altinay
+c7c2067a-454d-49f2-b998-743cbb889e4b,Amacker,Bruno,,SVP,,0,Bruno Amacker
+263a54b4-2906-49bb-b7a7-0fa5495825dc,Ammann,Andreas,,,,0,Andreas Ammann
+13d1f1a4-91f4-44e5-ba67-75cb1bf57838,Ammann,Jürg,,Grüne,,0,Jürg Ammann
+f15f6a61-bca6-4d3e-8109-c9e96950b433,Anderegg,Peter,,EVP,11,107,Peter Anderegg
+ee8204f4-9290-49ca-99ae-d18a22a0a513,Angst,Walter,,AL, 3,101,Walter Angst
+6390901d-2f16-4ec8-88e2-ee8f15d4a24f,Anhorn,Ruth,,SVP,,0,Ruth Anhorn
+04e3e929-da92-434e-9f6c-ab7cd0a1a3e7,Anken,Walter,,SVP, 6,103,Walter Anken
+fb965871-ea6b-4c54-8861-af84cb193dcf,Apafi,Lukas,,FDP,,0,Lukas Apafi
+8fc43753-529c-48f9-83f0-7a20aa9727bd,Atalay,Fakir,,,,0,Fakir Atalay
+a313c51d-742e-45d4-ac36-3cab6f118ae5,Aubert,Marianne,,SP,7 und 8,104,Marianne Aubert
+40f5621f-cd63-4650-8f59-0c19f83fdb1f,Avdili,Përparim,,FDP, 9,105,Përparim Avdili
+dcffa158-07b6-474d-8361-4fd346c95681,Babini,Mario,Dr. oec.,Parteilos,1 und 2,100,Mario Babini
+93baa3d3-84f7-4c89-841b-b5ea7f4882a5,Bachmann,Hans,,FDP,,0,Hans Bachmann
+201f16ef-b1e0-4498-9b64-5f57aa3719a5,Bachofner,Arnold,,SP,,0,Arnold Bachofner
+90253036-b704-4841-ba99-9cc89001ae76,Badertscher,Beat,Dr.,FDP,,0,Beat Badertscher
+bf3cdcb5-e2dd-44e0-8cf3-f21d1ccb6e0e,Badran,Jacqueline,,SP,,0,Jacqueline Badran
+57eca09a-60ec-4d2d-bae8-18227dd5bebb,Balmer,Bettina,Dr.,FDP,,0,Bettina Balmer
+06529da1-aa11-4539-9472-a87df7f8578a,Balsiger,Samuel,,SVP, 9,105,Samuel Balsiger
+e8e2dcc3-02f8-4997-9e35-f5e58ff15172,Bär,Hansruedi,,SVP,,0,Hansruedi Bär
+dd1e8d90-74ab-479f-9779-133dc394282a,Bär,Linda,,SP,,0,Linda Bär
+effd055a-2476-4462-a308-77c57736ba68,Bär,Thomas,,FDP,,0,Thomas Bär
+92a83413-8ca2-46d7-ab38-8873c2591a2e,Bartal-Abilio,Isabel,Dr.,SP,,0,Isabel Bartal-Abilio
+bd983e30-7d78-4fec-91fb-5bab8e4c647d,Bartholdi,Roger,,SVP, 9,105,Roger Bartholdi
+bea72c5d-5b6a-4c8e-b913-1c6d75722d77,Bärtschi Hafner,Erika,,FDP,,0,Erika Bärtschi Hafner
+df6b3100-1e90-4850-8bfc-ec2f8f2dd8ec,Barzotto,Myriam,,SP,,0,Myriam Barzotto
+8eb28350-c0cb-42db-b4bd-b753fd38ff7b,Bätschmann,Monika,,Grüne,10,106,Monika Bätschmann
+32e89ef8-f5b2-46e5-aafe-7dd15929f00a,Baumann,Markus,,GLP, 9,105,Markus Baumann
+efdddad0-7602-4b11-bc64-f34555bd4aeb,Baumann,Otto,,EVP,,0,Otto Baumann
+e69e0217-4f6e-4b80-a53a-fe2e19118be6,Baumer,Michael,,FDP,,0,Michael Baumer
+5ad2d3b0-db26-4e85-aef7-3f5dce4ea945,Baumgartner Kläy,Brigitte,,Grüne,,0,Brigitte Baumgartner Kläy
+e0e7fb0c-967d-44a4-aac7-4260afc36259,Baur,Toni,,Grüne,,0,Toni Baur
+ba439e1f-e568-4b4b-9816-9fa94a2fb3e5,Beer,Duri,,SP, 3,101,Duri Beer
+acbfcdfa-4c12-430c-b825-ef922bcf4179,Bellin-Isele,Christina,,SP,,0,Christina Bellin-Isele
+40284e58-f328-4a18-a895-b7f055e5f44d,Bergmaier,Guido,Dr.,SVP,,0,Guido Bergmaier
+70bc3231-64ce-4741-acaf-c08e1d4d9db2,Bernet,Arthur,Dr.,SVP,,0,Arthur Bernet
+11344976-cbed-415f-88aa-79314bdb9925,Bernhard,Irene,,GLP,,0,Irene Bernhard
+b1725e10-fb7d-408a-a60d-fdfd7dbec691,Berthoud,Rosemarie,,FDP,,0,Rosemarie Berthoud
+ba4b3208-bfb7-45d0-9ccf-fdefe04a8482,Bertogg-Baudet,Simone,,Grüne,,0,Simone Bertogg-Baudet
+79466d9a-5739-44ef-a0fd-50e46a0f2ff8,Bertozzi,Roberto,,SVP,11,107,Roberto Bertozzi
+5497bcd5-c88d-4cec-83bb-08659843c18b,Biedermann,Silvia,,SP,,0,Silvia Biedermann
+e88b8f65-f60b-4dab-afe0-97f3f71febe1,Bieri,Cordula,,Grüne,,0,Cordula Bieri
+ab6c4a1e-336b-4454-a533-a13f57747ca5,Bihrer-Stadelmann,Barbara,,,,0,Barbara Bihrer-Stadelmann
+7ca9ae49-cc9c-43b1-9478-c5cd9d0ce70b,Birrer,Susann,,FDP,,0,Susann Birrer
+66a7cd42-5a32-4885-afd6-35ed19ccb407,Bischof,Jris,,SP,,0,Jris Bischof
+c05a85e4-caf9-48dd-9959-ea4707c84065,Bischoff,Markus,,AL,,0,Markus Bischoff
+5b39daf0-42d9-4210-86ee-249bbf17f847,Bisig,Nicole,,SP,,0,Nicole Bisig
+78b66ff6-b873-4a13-aa6b-afc966d332ff,Blättler,Florian,Dr.,SP,11,107,Florian Blättler
+f1352bd4-c566-4832-984c-dcce42a9db48,Bloch,Beat,,CSP,,0,Beat Bloch
+c52584db-6276-4456-a05e-bc1db7d9f8ec,Bloch Süss,Monika,,CSP,,0,Monika Bloch Süss
+3fc3f967-a01b-4cde-bfcb-39c5a9311544,Blöchlinger,Patrick,,SD,,0,Patrick Blöchlinger
+4cff5ca2-3146-4a00-aff3-d16cf4162306,Blöchlinger,Walter,,CVP,,0,Walter Blöchlinger
+0a42f3a8-3fd6-4270-9461-0cc775a7f714,Bodmer,Onorina,,FDP,,0,Onorina Bodmer
+db77e55f-7e0c-460f-909e-a158423e91a8,Bögle,Heinz,,SP,,0,Heinz Bögle
+f66b5049-28ab-40e1-8a9f-e7dd31322d6d,Boll,Jürg,Dr.,FDP,,0,Jürg Boll
+359b6d60-0bf6-404e-83b9-bb8521fe3c7b,Bollag,Jedidjah,,SVP,,0,Jedidjah Bollag
+e359f252-af22-4062-af6c-eaca12ac8f0e,Bollier,Jean E.,,FDP,,0,Jean E. Bollier
+31cd94ce-bd7f-453f-8c3c-b3c2b9cc44c9,Bosshard,Gerhard,,EVP,,0,Gerhard Bosshard
+b1afe292-7b18-4c25-8c95-fc6fcceed8da,Bourgeois,Marc,,FDP,,0,Marc Bourgeois
+54c0ca10-69df-4f6d-add5-f10d52aaebcc,Bourgeois,Yasmine,,FDP,7 und 8,104,Yasmine Bourgeois
+76fbbc2b-275a-4f50-8832-2c5ad3fa3bc4,Brander,Simone,,SP,10,106,Simone Brander
+0fd8b23b-2d5f-40a7-b90b-eb2858f54882,Brändle Galliker,Anna,,SP,,0,Anna Brändle Galliker
+2a688402-8d98-4ea6-a444-b247ed9b5809,Brändli,Sebastian,Dr.,SP,,0,Sebastian Brändli
+f22ffb3c-4b48-4674-864c-a9fe0a96ac7f,Brasser,Ueli,,SD,,0,Ueli Brasser
+55639702-fe46-4491-9411-0957f56b5fa1,Breitenstein,Sarah,,SP,10,106,Sarah Breitenstein
+bb606084-7a40-48ee-a4c8-2b06dd6ff02f,Britschgi,Bernhard,,SVP,,0,Bernhard Britschgi
+3481aa49-18ab-45e2-8cbf-250318e21125,Britz,Helmut,,SP,,0,Helmut Britz
+bcae3b99-6601-4c98-ac71-19a73a753448,Browar,Salomon,,,,0,Salomon Browar
+b9c2d889-fb8d-4d11-911b-aa84f9c91d18,Brunner,Alexander,,FDP,7 und 8,104,Alexander Brunner
+2d87f64f-7641-4a88-a11d-b8e4a27f29d7,Brunner,Susanne,,SVP,7 und 8,104,Susanne Brunner
+4084208d-6380-4d59-a426-01231472d25b,Bucher,Gregor,,,,0,Gregor Bucher
+dead565f-5576-499e-bc66-f157f3260b11,Bucher,Judith,,SP,,0,Judith Bucher
+7ebbfe81-3857-4ba3-8ace-0d8dd07a75fa,Bucher-Steinegger,Heidi,,Grüne,,0,Heidi Bucher-Steinegger
+0a2595e4-f04c-4b05-910e-4f7b37161eda,Bührig,Marcel,,Grüne,10,106,Marcel Bührig
+3c57e8f6-144e-456f-a1e2-b04d3dab62eb,Bünger,Pablo,,FDP,,0,Pablo Bünger
+80204cc7-350d-4022-ba7a-7305ccd56dcb,Bürcher,Beat,,SP,,0,Beat Bürcher
+94084402-0eda-4721-b504-af8004f9e377,Burger,Martin,,SVP,,0,Martin Burger
+519973d2-b738-4664-b746-f0f4cb815497,Bürgisser,Balz,Dr.,Grüne,7 und 8,104,Balz Bürgisser
+72d9c149-3269-42b0-848e-0e21fc8b0c21,Bürki,Martin,,FDP,1 und 2,100,Martin Bürki
+12a1950f-2a80-4c6c-9616-bdc6027a0089,Bürlimann,Martin,,SVP,,0,Martin Bürlimann
+da17c580-c8b8-4637-8bcc-1fb793dcf5e0,Burri-Wenger,Maya,,SP,,0,Maya Burri-Wenger
+251ce636-3d9c-4b7f-9636-af30be0a3263,Butz,Marlène,,SP,,0,Marlène Butz
+562c79aa-a7aa-4395-ac55-22ff24654a0a,Camen,Beat,,SVP,,0,Beat Camen
+a6adedff-75b3-4890-93bc-e52e0fc04267,Camin,Marco V.,,FDP,,0,Marco V. Camin
+1bda67d8-a81a-4cfc-b318-675d4cc4782c,Casparis,Jürg,,SVP,,0,Jürg Casparis
+94a4a9fa-6936-45cc-8646-cc0a56b5b453,Casutt,Beatrix,,SVP,,0,Beatrix Casutt
+e89199fc-577a-4087-b492-df119474be95,Cerliani,Pierino,,Grüne,,0,Pierino Cerliani
+0be23e59-f64a-44e8-9ebe-56045d9200da,Cheridito,Ilde,,SP,,0,Ilde Cheridito
+63c8f7d9-abd1-4aae-8106-bfde63980439,Danner,Ernst,,EVP,11,107,Ernst Danner
+8dfe5784-66c6-47ef-a278-4ab9a57b9db1,De Salvador,Massimo,,SP,,0,Massimo De Salvador
+438fa20f-61c4-49d5-8b76-06bbe37e4d74,Denoth,Marco,,SP, 6,103,Marco Denoth
+e529b7b4-8cbe-46b9-9b60-533662c7c921,Dettli,Reto,,SP,,0,Reto Dettli
+39bf3d70-adba-4060-b8bf-f35021d6337a,Di Concilio,Salvatore,,SP,,0,Salvatore Di Concilio
+a31b99fb-c69e-423b-bb2a-6f2b7457b332,Diem,Hans,,CVP,,0,Hans Diem
+36c6af0b-8d8e-4793-ab65-db44a4ce0f44,Diener,Alfred,,SD,,0,Alfred Diener
+8e9105ee-7f72-4cf5-87cb-2f3f270845ce,Diggelmann,Simon,,SP,4 und 5,102,Simon Diggelmann
+b8b1fc2d-296d-42c2-88d0-82cd2fbf8915,Dogwiler,Sven Oliver,,SVP,,0,Sven Oliver Dogwiler
+90f70543-b74e-4fed-9893-dd26ecc7c6ac,Dubacher,André,,SP,,0,André Dubacher
+280018f3-d364-48c4-96b1-4eedb813c590,Dubno,Samuel,,GLP,,0,Samuel Dubno
+e1369fff-4ad6-4bc8-a290-63ab88ed8f6d,Dubs Früh,Marianne,,SP,,0,Marianne Dubs Früh
+bbfb8ca0-91b1-448d-b1fc-c5e3bb35c158,Eberle,Natalie,,AL, 3,101,Natalie Eberle
+d6e65df3-d58e-4af1-b3ae-275338147a19,Edelmann,Andreas,,SP,,0,Andreas Edelmann
+70c4fb44-48da-47b2-b24e-aaf500c1e78c,Egger,Heidi,,SP,11,107,Heidi Egger
+716cab9a-1d9c-4c2e-929d-5a777513a293,Egger,Urs,Dr.,FDP,,0,Urs Egger
+419e3ac9-c619-4c8f-8143-a09d71e8c342,Eggler,Robert,,FDP,,0,Robert Eggler
+8e54fd16-8091-4ad3-93bd-6a08698cd9a9,Egli,Andreas,,FDP,10,106,Andreas Egli
+53ba534c-2097-488a-a689-b189878cf215,Egloff,Mathias,Dr. phil. II,SP,10,106,Mathias Egloff
+edcb2167-831a-4417-9b08-026aa5123d2c,Elmer Lück,Annamarie,,SP,,0,Annamarie Elmer Lück
+160e2b30-b922-4637-b513-0e9d0445b3ce,Enderlin Cavigelli,Regula,Dr.,SP,,0,Regula Enderlin Cavigelli
+53760522-5b08-4a99-b645-c3ffde91555f,Erdem,Niyazi,,SP, 3,101,Niyazi Erdem
+484b95f5-7d8f-41dd-8901-9faea379e48a,Erdös-Schärer,Susanne,,SP,,0,Susanne Erdös-Schärer
+1ff7e393-82cf-47a0-9b5a-08d9b6c731a9,Erfigen,Monika,,SVP,,0,Monika Erfigen
+3ac05cb7-f6c0-43f5-9ff3-7864b94063ed,Esseiva,Nicolas,,SP,,0,Nicolas Esseiva
+4df2d9ef-a749-4933-9a00-df66beef3064,Estermann,Josef,,SP,,0,Josef Estermann
+1d89215d-9a2e-4e76-8835-a5fd747132b8,Eugster,Emanuel,,SVP,7 und 8,104,Emanuel Eugster
+892a19fc-7ca8-4aef-9b72-23bb0d588eb9,Fässler,Renate,,SP,,0,Renate Fässler
+8070161a-b46c-4824-9ff5-65b4af255069,Federer,Guido,,SP,,0,Guido Federer
+50d60f0f-cab8-4ab6-bf80-5308e82dd1c1,Fehr,Urs,,SVP,,0,Urs Fehr
+343029ed-ede8-403a-a6ed-3c4413034601,Fehr Düsel,Nina,,SVP,,0,Nina Fehr Düsel
+e30635f4-37c6-44bb-b460-8649ba1270ae,Feuillet,Dominique,,SP,,0,Dominique Feuillet
+de767784-8e33-4d44-894b-0848eb20e367,Fiala,Doris,,FDP,,0,Doris Fiala
+a182141c-261c-4244-a5a0-cd3781a345be,Filli,Peider,,Grüne,,0,Peider Filli
+bbe09b45-bd66-4d35-b800-b722d6576feb,Fischer,Renate,,SP,1 und 2,100,Renate Fischer
+8ef1bf9d-63aa-4999-9ac6-0b3ee16c838f,Föhn,Roger,,EVP,12,108,Roger Föhn
+d754f695-eb1a-43c7-b867-6bbe0fabacaa,Frei,Dorothea,,SP,12,108,Dorothea Frei
+b1adc872-1779-4acd-8517-7c7a47f53829,Fritz,Max,,FDP,,0,Max Fritz
+fb327c9d-1574-4545-88f9-188d96ba3989,Früh,Anjushka,,SP,11,107,Anjushka Früh
+9f155c63-f755-4bbd-b1b8-dd8e7ad4421e,Fürer,Brigitte,,Grüne,4 und 5,102,Brigitte Fürer
+795532bc-45a7-47d0-ba57-ddf447f87e91,Furrer,Werner,,SVP,,0,Werner Furrer
+0835b8a6-5a92-42e5-950f-64253d45f9ac,Furter,Willy,Prof. Dr.,EVP,,0,Willy Furter
+096e6b8a-6e06-4182-951a-09d4a8469aa8,Gafner,Karl,,FDP,,0,Karl Gafner
+6a6e0c52-3ae0-48d3-b7d3-a9412dad103b,Garcia,Isabel,,GLP, 3,101,Isabel Garcia
+4a1be35e-3f69-48a4-85b1-3fee07b006ae,Garcia Nuñez,David,Dr.,AL,4 und 5,102,David Garcia Nuñez
+e18ef781-2583-4998-838c-8dd5ff064214,Garzotto,Bruno,,SVP,,0,Bruno Garzotto
+61d92382-31d3-44f4-940a-8c2185285915,Garzotto,Marina,,SVP,,0,Marina Garzotto
+3f57f384-aaa0-4d7f-a359-95d12086624d,Gautschi,Adrian,,GLP,,0,Adrian Gautschi
+376897a5-5c3c-432e-b6c9-b3f1d11f249e,Geissbühler,Marco,,SP, 3,101,Marco Geissbühler
+c2adc537-639b-4854-864f-0c40312563ad,Giger,Nicole,,SP,11,107,Nicole Giger
+969d3c6e-4876-417e-a1d7-959c832888f1,Girod,Bastien,,Grüne,,0,Bastien Girod
+a16b6fb2-be42-44d1-8918-4e10a16db46c,Glaser,Helen,,SP,7 und 8,104,Helen Glaser
+9a64062b-516b-427b-81f8-e5506fb13e54,Glättli,Balthasar,,Grüne,,0,Balthasar Glättli
+a2c59a56-f498-4b31-bd0d-270e54146fcc,Götzl,Martin,,SVP,11,107,Martin Götzl
+511379f5-caf5-4e98-a5cc-56f559e4bf21,Grabherr,Emil,,SVP,,0,Emil Grabherr
+98059229-2eb1-4285-99f9-f15e21aaa589,Graf,Davy,Dr.,SP, 9,105,Davy Graf
+99092dec-7524-49df-8c7b-eca0a932d36a,Graf,Franziska,,SP,,0,Franziska Graf
+5dfad4ba-ba11-4199-8cf4-1f2e6351429f,Gredig,Corina,,GLP,,0,Corina Gredig
+fa637579-1013-42c3-a5fb-6a7a40d4680b,Gross,Andreas,,SP,,0,Andreas Gross
+1ff885f7-bfc1-4bf6-9111-1ae66adfa373,Guggenheim,Eduard,,AL,,0,Eduard Guggenheim
+58903222-1ef5-4db9-b2a8-094c0e8107b6,Güntensperger-Alioth,Elisabeth,,SP,,0,Elisabeth Güntensperger-Alioth
+92a63be3-aaf2-4d18-b29a-1250622a758d,Gut,Christoph,Dr.,SP,,0,Christoph Gut
+c2bbf1bc-efad-42a2-a457-c795b49eac17,Gut,Susi,,PFZ,,0,Susi Gut
+bf2bf7c0-69e8-4d93-81df-15268313c83b,Habicher,Lorenz,,SVP,,0,Lorenz Habicher
+67959f07-7ea8-42a8-916c-feb27fee0780,Hagger,Joachim,,FDP,,0,Joachim Hagger
+ae88d9a8-b8c6-4933-88b2-2364ab95a3b9,Haller,Margrit,,SVP,,0,Margrit Haller
+79837587-dee2-41dc-8e12-08c363213e79,Halser-Furrer,Michèle,,EVP,,0,Michèle Halser-Furrer
+7b332837-0fd1-4b5c-89ed-1a6dae43b783,Hänni-Etter,Cäcilia,,FDP,,0,Cäcilia Hänni-Etter
+c9cfe296-21d2-47d8-ae00-719c9411d6a1,Haueter,Kurt,,SVP,,0,Kurt Haueter
+1f9e8fe3-7ed8-43dc-8ddf-ecb98bb410b8,Hauri,Andreas,,GLP,,0,Andreas Hauri
+3c00c31b-0bef-406c-a78c-62fd08e17d98,Hauri,Theo,,SVP,,0,Theo Hauri
+2c582bb1-0723-44c3-b1c7-3a43be2ff79a,Heer,Alfred,,SVP,,0,Alfred Heer
+2da4a679-6dde-4a4d-ae05-e2ad4a1a3cee,Heinrich,Uschi,,SP,,0,Uschi Heinrich
+af7eb3bf-d095-4438-bc6b-847b3d0db23b,Helfenstein,Urs,,SP,4 und 5,102,Urs Helfenstein
+84905139-a235-414a-8b13-1c919d3b6005,Hensch-Stadelmann,Theresa G.,,FDP,,0,Theresa G. Hensch-Stadelmann
+f65942f7-050c-4b9a-94f9-b5e018393116,Herzig,Muriel,,Grüne,,0,Muriel Herzig
+8e0987f6-863d-4eaa-afb9-8ac3d4ca9209,Heygel,Reto,,SP,,0,Reto Heygel
+0ec35f0a-412c-4ad9-b323-4400c153dff9,Hintsch,Gustav,Dr.,SP,,0,Gustav Hintsch
+008147e4-b161-4162-96c1-139f04f95f5d,Hirsiger,Eva,,Grüne,,0,Eva Hirsiger
+d3369b82-b567-40d9-b897-c93b938debe1,Hirzel,Astrid,,CVP,,0,Astrid Hirzel
+32c76e6a-4705-4ef7-adef-62ebadb6506f,Hirzel,Charles,,SP,,0,Charles Hirzel
+c44fbc34-c023-49ab-bde6-b3cb84a8d1f9,Hochreutener,Andrea,,SP,,0,Andrea Hochreutener
+a0692db6-12d8-462b-a02d-b3b3f3045551,Hofer Frei,Simone,,GLP, 6,103,Simone Hofer Frei
+fdc5fd5f-31da-4433-a02b-bc25462da79e,Hofstetter,Stefan,,SP,,0,Stefan Hofstetter
+ed35fadf-011c-4292-a074-459bca16e962,Hohl,Marc,,FDP,,0,Marc Hohl
+532de5ba-df88-4d45-b75a-ee1915011826,Hohl,Marcel R.,,FDP,,0,Marcel R. Hohl
+5dafbac4-2ee9-4597-a5a7-9643931a782b,Hollenweger,Vreni,,SP,,0,Vreni Hollenweger
+92df5620-a5ce-442b-8bff-f213e489f001,Huber,Patrick Hadi,,SP,4 und 5,102,Patrick Hadi Huber
+62689894-2306-442d-8f92-12e84de90619,Huber,Reni,,SP,,0,Reni Huber
+4a6e77d5-ace7-4d03-ad62-eb1a14923b21,Huber,Thelma,,FraP,,0,Thelma Huber
+b4a24a7b-abe0-4fd7-96d0-f55676dd7861,Huberson,Nadia,,SP,11,107,Nadia Huberson
+8086a557-dd3c-47bf-92c6-50bd2ba3b352,Hubmann,Vreni,Prof. Dr.,SP,,0,Vreni Hubmann
+f8116b50-6f14-4d5a-8c18-49ba7ae9ae56,Hug,Adrian,,CVP,,0,Adrian Hug
+28d69d35-f7ea-414f-b58a-eba868cfebb1,Hug,Christina,,Grüne,,0,Christina Hug
+b37fdd87-03a3-4505-9b39-85823968e10d,Hug,Christoph,,Grüne,,0,Christoph Hug
+b5818a06-59b1-49e6-9496-0d26953fbc9d,Hungerbühler,Markus,,CVP,,0,Markus Hungerbühler
+fb3c8de1-8a1d-48f0-a0c1-81de7a118740,Hüni,Guido,,GLP,4 und 5,102,Guido Hüni
+bd07bf4e-9e94-459a-a7cd-a376d4e8003e,Huser,Christian,,FDP,11,107,Christian Huser
+411c83b4-f920-4958-806c-e4bac490dbec,Hüssy,Kurt,,SVP,,0,Kurt Hüssy
+3ad30c09-6873-4ee0-a9cf-8b699a5e943c,im Oberdorf,Bernhard,Dr.,SVP,12,108,Bernhard im Oberdorf
+c85d5fb7-dab9-486d-9384-b87e847c43e7,Isliker,Walter,,SVP,,0,Walter Isliker
+ce8041b1-19af-4e73-8c30-0b2577592bbd,Iten,Stephan,,SVP,11,107,Stephan Iten
+efe80b5d-4fa0-49f0-b8ee-070ab43ab8b9,Jacobi,Heinz,,SP,,0,Heinz Jacobi
+bdcb01cf-2c99-442d-a5e6-07e4d18711cc,Jäger,Alexander,,FDP,,0,Alexander Jäger
+e4fea4fc-569a-483b-9d85-0ecf597d1368,Jagmetti,Luca,Dr.,FDP,,0,Luca Jagmetti
+9437ccea-ee01-45ea-8f9d-5a4198d518ae,Jahreiss-Montagnani,Fiammetta,,SP,,0,Fiammetta Jahreiss-Montagnani
+1beb0f5b-300a-49e8-b5fa-7e3676c50bac,Jüsi,Bernhard,,SP,,0,Bernhard Jüsi
+53a0cdc2-72f9-4ad7-876d-4edc658029ff,Kaeser,Robert,,FDP,,0,Robert Kaeser
+425cc044-7799-4b37-8451-5903866239a9,Kägi Götz,Maya,,SP,4 und 5,102,Maya Kägi Götz
+ceb880c2-db62-491a-9f62-883bb8e72a81,Kälin-Werth,Simon,,Grüne,7 und 8,104,Simon Kälin-Werth
+38d1d9b2-a5be-4212-96f5-f402d9acac63,Kamber,Thomas,,CVP,,0,Thomas Kamber
+912c4c43-d183-4d06-874a-5caaef10f4c8,Kammerer,Bruno,,SP,,0,Bruno Kammerer
+d58b0321-5d8a-41e8-aa62-340d63dba3de,Kappeler,Thomas ,Dr.,CVP,,0,Thomas  Kappeler
+af3b8608-2ac0-46ac-b05c-3e5da7845df6,Käppeli,Hans Jörg,,SP,11,107,Hans Jörg Käppeli
+58167df5-6bc2-4d6b-b5e1-b8bad37cbc48,Karakostas,Sofia,,,,0,Sofia Karakostas
+7bb225f4-c1bf-4b7c-b542-aeba8facdf12,Käser,Philipp,,GLP,,0,Philipp Käser
+4783f09b-57f9-4cc8-a7c0-813815aed759,Katumba,Andrew,,SP,,0,Andrew Katumba
+698a0e13-a6c5-4e2f-97cf-8da7bd35692a,Keller,Ueli,,SP,,0,Ueli Keller
+3fb34414-82b7-4ad1-9a15-0f501608c542,Kessler,Alain,,FDP,,0,Alain Kessler
+b84bdf09-0197-4eac-989f-b6e49b297edd,Kirstein,Andreas,,AL,11,107,Andreas Kirstein
+b8b3c9f7-2f9b-4247-95f7-af7eb177940f,Kisker,Gabriele,,Grüne,1 und 2,100,Gabriele Kisker
+0a164c42-f3b6-4a92-853c-58899b91c666,Kleger,Paul,,FDP,,0,Paul Kleger
+510f49c8-76b0-4c37-a031-518867986a26,Kleger,Thomas,,FDP,11,107,Thomas Kleger
+fdc2ec44-f507-42b8-8b0a-d8b0082990c2,Knauss,Markus,,Grüne,4 und 5,102,Markus Knauss
+2f50146a-eb0f-495c-aeef-a9670f09636f,Knörr,Marcel,,FDP,,0,Marcel Knörr
+e01dacdf-58f4-4bea-8515-081590ea17a1,Kobler,Raphael,,FDP, 3,101,Raphael Kobler
+9db61ee8-2d3e-42e5-ab21-7b233a18872a,Koch,Sabine,,FDP,7 und 8,104,Sabine Koch
+735cae3b-5fbe-4090-a987-2c3154aed359,Köpfli,Josef,,SP,,0,Josef Köpfli
+59123a81-37b2-4e95-8a16-a9964bac2955,Kraft,Michael,,SP,10,106,Michael Kraft
+aa77152d-5fde-4725-8c69-21c022000ec8,Krayenbühl,Guy,,GLP,1 und 2,100,Guy Krayenbühl
+0d6599f7-2dc7-4797-8292-a9d077beb187,Krebs,Kurt,,SL,,0,Kurt Krebs
+e8826106-c676-4813-9868-f8118e0389eb,Kuhn,Rolf,,SP,,0,Rolf Kuhn
+ad4dc980-b933-46e2-b61a-05a70b4ccf40,Küng,Peter,Dr.,SP,,0,Peter Küng
+8535e227-94aa-4332-bd42-077848ed5f28,Kunz,Hanspeter,,EVP,,0,Hanspeter Kunz
+56d4d8c4-0ee8-4dce-b0b8-dc2388433758,Kunz,Markus,,Grüne, 3,101,Markus Kunz
+e381099f-c2cf-4df3-ac06-a84daa094132,Kurtulmus,Muammer,,Grüne,,0,Muammer Kurtulmus
+24e06b1c-f63a-4c9d-b4e6-2837f9c46911,Lamprecht,Pascal,,SP, 9,105,Pascal Lamprecht
+6f80de0e-2322-46c4-891b-3a2781b127c9,Landolt,Maleica,,GLP,11,107,Maleica Landolt
+b14b0af2-fc39-4a0f-9f93-7578ce58ca50,Lanzendörfer,Matthias,,SD,,0,Matthias Lanzendörfer
+3ac75292-b28d-4d99-9205-e02a9e7b0414,Lauber,Gerold,lic. iur.,CVP,,0,Gerold Lauber
+968d0e88-7760-4dbc-be49-16d518c41cff,Lauber,Tamara,,FDP,,0,Tamara Lauber
+98c06054-ce6b-43c4-817e-6f84b2a4ef2c,Lauffer,Urs,,,,0,Urs Lauffer
+3ee7c397-8798-4d14-8fd9-93f95b6d6182,Ledergerber,Zora,Dr.,GLP,,0,Zora Ledergerber
+2fe4ac1e-5d58-4546-9d26-618b3980ca74,Leiser,Albert,,FDP, 9,105,Albert Leiser
+7f22b482-38d0-43ca-9599-a71f3edcbd73,Leitner Verhoeven,Andrea,,AL,10,106,Andrea Leitner Verhoeven
+af40797d-48cc-4410-8dc3-d023104a42ae,Leoni,Luigi,,SVP,,0,Luigi Leoni
+755a7e7d-d3c7-4ce0-ba75-9ff4aa4251fd,Leuenberger,Herbert,,SD,,0,Herbert Leuenberger
+67301b87-63e2-4d43-9738-ce5f938aa3f7,Leupi,Daniel,,Grüne,,0,Daniel Leupi
+67a18930-56da-4f2b-a6a9-e55c65ad2512,Leuzinger,Romana,,SP,,0,Romana Leuzinger
+13d7870b-45b0-446d-af21-b58399f0d8b1,Liebermann,Jürg,,,,0,Jürg Liebermann
+d5882293-1482-4f82-b75e-543533681c01,Liebi,Elisabeth,,SVP,,0,Elisabeth Liebi
+3897ae1a-3dd5-43b6-bd6c-98a61d3aae54,Liebi,Roger,,SVP,,0,Roger Liebi
+067dc46f-7cf6-4a5f-b368-4771711d0c33,Lienhard,Hanna,,,,0,Hanna Lienhard
+7d007467-325b-46a8-a29b-6d0981ee8de3,Lienhard,Stephan,,SVP,,0,Stephan Lienhard
+580bb85b-b3d0-4a50-b800-e64570d2f6a8,Linggi Werner,Jeannette,,SP,,0,Jeannette Linggi Werner
+ff8c5e94-798b-4e5f-ad23-feeae3f1243a,Luchsinger,Christoph,Dr.,FDP,,0,Christoph Luchsinger
+2212cc79-5498-40af-b3a2-397d54bb5b5c,Luchsinger,Martin,,GLP,,0,Martin Luchsinger
+74ee974c-4f8f-4034-8e9c-b17f12fe35b4,Luchsinger,Thomas,,SVP,,0,Thomas Luchsinger
+96a6a5dd-82fb-4663-9389-973034276f6e,Luchsinger Gähwiler,Catrina,Dr.,FDP,,0,Catrina Luchsinger Gähwiler
+6a5b1076-2a5c-4d0b-9b8a-d8544b3820e3,Mächler,Martin,Dr.,EVP,,0,Martin Mächler
+afce12d3-c21a-42de-a927-1a9a88cd00c0,Mächler,Peter,,SVP,,0,Peter Mächler
+11c7edee-ffb5-4451-b4ce-ab5c280c5977,Maeder,Kurt,Prof. Dr.,CVP,,0,Kurt Maeder
+7d0fb669-0e85-4051-87f5-db23ea3f1802,Maggi,Luca,,Grüne,1 und 2,100,Luca Maggi
+b19832ce-0192-4769-a8df-b79ff35d54dc,Mägli-Fischer,Erika,,SP,,0,Erika Mägli-Fischer
+75ae27e5-17f3-4253-a4b0-408abb592703,Mahrer,Monika,,SP,,0,Monika Mahrer
+fcde5da1-ca99-4cf8-9623-ab532de3de85,Maichle-Schori,Margrit,,SP,,0,Margrit Maichle-Schori
+9e46c2e0-626a-4d19-82e8-de1b2a3e216d,Maillard,Patrik,,AL, 6,103,Patrik Maillard
+ad2a673f-483f-465b-b58a-1ca0bc70d09f,Maino,Rosa,,AL,,0,Rosa Maino
+068f1fd5-6dd7-458c-a08d-09710a409db0,Maissen,Placidus,,,,0,Placidus Maissen
+f450234e-928c-4358-8114-5e3d2cfb810e,Makwana-Boss,Elisabeth,,SP,,0,Elisabeth Makwana-Boss
+87cf2c8f-edda-4afa-b680-a683e1601fba,Manser,Joe A.,,SP,7 und 8,104,Joe A. Manser
+0d59f41d-2318-44dd-9c77-af41669c48b6,Manz,Mathias,,SP, 9,105,Mathias Manz
+6b4c5528-79e0-4de8-994e-8539ae09ac3a,Marchetto-Grütter,Christine,,SP,,0,Christine Marchetto-Grütter
+9d8d30b3-0940-4f43-9304-9dc0c1adfb25,Mariani,Mario,,CVP,,0,Mario Mariani
+527d118b-0478-4b3e-bfb8-a3111575e659,Marolf,Hans,,SVP,,0,Hans Marolf
+8c7958b0-b270-447b-b178-39a0d06f6bf8,Martelli,Kathrin,,,,0,Kathrin Martelli
+eaac1f5e-3da7-4779-8ec9-0bb6c7ecb069,Marthaler,Thomas,,SP,,0,Thomas Marthaler
+8ba66468-4f2e-450d-9b7e-dbac5e6a26ae,Marti,Elena,,Grüne,11,107,Elena Marti
+8630dc95-b153-4f7e-bd51-1f9fc314af4a,Marti,Min Li,,SP,,0,Min Li Marti
+0fbc0665-ed86-4b86-b0a7-086274d67499,Marti,Peter,,,,0,Peter Marti
+e965adf7-71b7-4e39-a714-175ee4990207,Marti,Res,,Grüne, 9,105,Res Marti
+399ab8b4-d234-4e7c-9de3-b54446c9f92b,Marty,Christoph,,SVP,,0,Christoph Marty
+b181031f-9066-483a-84bf-92f8fa59aa2a,Matter,Sylvie Fee,,SP,,0,Sylvie Fee Matter
+08dd60a3-4d46-4e69-ae57-572afa0a32e3,Mauch,Corine,,SP,,0,Corine Mauch
+3345c9bc-c5e3-416c-8685-90b03ccb1ae2,Maurer,Esther,,SP,,0,Esther Maurer
+fed08b65-8e0a-48cb-aa3c-09c8b02c4490,Meier,Daniel,,CVP,,0,Daniel Meier
+b0403d1c-035a-4ff5-bae4-c9dab82bf2d5,Meier,Gabriela,,SP,,0,Gabriela Meier
+a6b45736-4c00-4a42-87e9-f7e5d7b85b04,Meier,Hans-Ulrich,,FDP,,0,Hans-Ulrich Meier
+83dbda19-035b-485f-9dcd-cc8b909d6de9,Meier,Marie-Therese,,SP,,0,Marie-Therese Meier
+dd8f7167-3e1f-47aa-a815-075cd23afd4a,Meier,Oliver B.,,SVP,,0,Oliver B. Meier
+a1e15cd4-560f-4967-a8aa-7d73237a4b43,Meier,Thomas,,SVP,,0,Thomas Meier
+fd3ff4cb-fdb2-4fc0-be56-6b1d6a84e66f,Meier-Bohrer,Karin,,Grüne, 6,103,Karin Meier-Bohrer
+09fccfe6-c6e3-487e-8efc-4db1e8af3d8f,Merki,Markus,,GLP,11,107,Markus Merki
+49d8a461-cfec-48dd-b863-15a6f471b1a8,Mettler,Christian,,SVP,,0,Christian Mettler
+2d168877-7c7c-4e7d-986e-b19543bf5295,Meuli,Myrtha,,SP,,0,Myrtha Meuli
+178260bc-b46e-460b-bd3f-f80ae421c468,Meyer,Pirmin,,GLP, 3,101,Pirmin Meyer
+a191c22b-aab2-426c-8582-c35adbbb2b43,Miescher,Kurt,,SD,,0,Kurt Miescher
+f5ae2bc7-e3c4-4f2e-96b8-0b4c1abbb87d,Monn,Christian,Dr. ,GLP,12,108,Christian Monn
+0ab2f762-e2ac-4c5e-9be7-63412614df84,Monn,Thomas,Dr.,SVP,,0,Thomas Monn
+70306ac8-fcd8-4901-8605-f1fa4839a236,Morgenbesser,Mischa,Dr.,FDP,,0,Mischa Morgenbesser
+2f54f2fb-62cc-4083-9e16-db9ddf12c7c4,Möri,Köbi,,Parteilos,,0,Köbi Möri
+c35b7651-ec18-4396-981f-6176610472bf,Moser,Felix,,Grüne,12,108,Felix Moser
+7859ddd3-a6e3-4dd3-a117-b8e34f2cbd28,Müller,Gody,,SVP,,0,Gody Müller
+12f11f39-d53e-4cb2-a1da-0d458e0a0411,Müller,Marcel,,FDP, 9,105,Marcel Müller
+1c0bf25b-7db3-4122-8a95-f1da48243270,Müller,Max,,SVP,,0,Max Müller
+49ade51b-faa6-48fd-b79b-d376309b3727,Müller,Robert,,SVP,,0,Robert Müller
+5ef19a8e-2a05-4bc0-9ef7-99a29b0e5076,Müller,Rolf,,SVP, 9,105,Rolf Müller
+38715b27-a268-4d25-b109-f6ab38510974,Müller,Yvonne,,SP,,0,Yvonne Müller
+162e20b7-31de-46ef-b520-0021c3e269cb,Nabholz,Ann-Catherine,Dr.,GLP,7 und 8,104,Ann-Catherine Nabholz
+c1e946ce-ba58-4117-994a-7c4855173f55,Naef,Benjamin ,Dr.,SP,,0,Benjamin  Naef
+43a47359-66bf-46cb-9146-f9ccfd2baf4f,Naef,Rolf,,SP,,0,Rolf Naef
+83d229c9-ac19-4b6a-bc4e-2bd5b9f9a923,Näf,Ursula,,SP, 6,103,Ursula Näf
+9945d2e7-734c-4363-b8b5-85beb85ee848,Nagel,Ueli,Dr.,Grüne,,0,Ueli Nagel
+ddd3654d-5914-407a-9110-6c3dba70919e,Nielsen,Claudia,Dr.,SP,,0,Claudia Nielsen
+67b87a6b-76bd-4725-95b9-d52415749d1d,Niggli,Peter,,Grüne,,0,Peter Niggli
+8660fd0f-6c94-4cae-a9ad-607a5e3656c8,Nikles,Hans,,SVP,,0,Hans Nikles
+1e309d65-ca7d-42f3-bd67-a6e4526847d1,Nobs,Martin Johann,,SP,,0,Martin Johann Nobs
+1a2aa558-cbd2-4ab6-8725-7c791cec92ad,Novak,Martina,,GLP,7 und 8,104,Martina Novak
+68acaea6-045d-4046-9a26-568565fb276f,Nüssli,Andrea,,SP,,0,Andrea Nüssli
+3b7ede89-f4fd-444b-81a7-53a66560333e,Odermatt,André,Dr.,SP,,0,André Odermatt
+0c1b9c97-7c55-45b6-b4e5-80552488ce71,Osbahr,Thomas,,SVP,,0,Thomas Osbahr
+1a7596ac-8426-487e-b011-02c7e094d53f,Ott,Eva,,LdU,,0,Eva Ott
+96a9e201-1ea9-455f-bd6f-09087ab454be,Ottmer,Lars,,SP,,0,Lars Ottmer
+51f8dfac-7e02-4d63-b3c7-0e4f5d396567,Papageorgiou,Kyriakos,,SP,,0,Kyriakos Papageorgiou
+c6bb9fa0-45f5-459e-b7d0-8f9e5ad15b5a,Pauli,Pascal,,Grüne,,0,Pascal Pauli
+3a0b8f7d-ba3d-4c0d-8e82-0e13f917a348,Peter,Karin,,SVP,,0,Karin Peter
+76636b78-3a24-42a4-8329-9f0d999f8c1c,Pflüger,Severin,,FDP,11,107,Severin Pflüger
+c246dd26-aef1-4ad9-8974-ffad2b0d49eb,Piesbergen,Monika,,,,0,Monika Piesbergen
+5cc207f7-2c5b-4b95-8662-19b0e425212c,Piller,Bernhard,,Grüne,,0,Bernhard Piller
+6fea7af6-8986-4426-87f1-7e650b494b8c,Polloni Rohner,Gisela,,SP,,0,Gisela Polloni Rohner
+dc3eaf70-94d3-4667-bd5e-7a32c811cc2c,Ponti-Weder,Esther,,,,0,Esther Ponti-Weder
+7b3608c9-8939-4d75-9771-fdcd2a84ea04,Prelicz-Huber,Katharina,Prof.,Grüne, 9,105,Katharina Prelicz-Huber
+d83a547f-4271-46e2-93fd-ab49be261ba5,Proamer,Pascal,,CVP,,0,Pascal Proamer
+827792a3-491d-425d-955c-d5a9965252ae,Probst,Matthias,,Grüne,11,107,Matthias Probst
+fdfcd10d-7734-47af-b898-83e478aa07b9,Püntener,Peter,,GLP,,0,Peter Püntener
+dad38e55-68cc-445b-9648-de33fc11cd65,Rabelbauer,Claudia,,EVP, 9,105,Claudia Rabelbauer
+d222f3e0-8d0b-4ee4-a5f3-9896eafceef3,Rabelbauer,Richard,,EVP,,0,Richard Rabelbauer
+4873e085-f124-43e9-81cb-9ba031e75314,Ramer,Silvia,,SP,,0,Silvia Ramer
+5f656d48-b9d8-4204-88ec-53969f95ffa7,Recher,Alecs,,AL,,0,Alecs Recher
+9cfed488-13c5-4b0d-9d7d-8ea59645203a,Rechsteiner,Urs,,,,0,Urs Rechsteiner
+2a9cab18-e280-4d88-aff3-ce72b017eab1,Regli,Daniel,Dr.,SVP,,0,Daniel Regli
+b3131249-6c5d-4062-9bbb-1f0503237a7d,Reimann,Beatrice,,SP,,0,Beatrice Reimann
+bfed514f-ea62-4b70-86fe-db6ae655ce7c,Reinhard,Anneliese,,SP,,0,Anneliese Reinhard
+f74d8d44-3950-49bd-983e-3498b36b42ec,Renggli,Matthias,,SP, 6,103,Matthias Renggli
+e1297508-be1a-4c61-81b6-a8f501114378,Renner,Christine Juliana,,AL,,0,Christine Juliana Renner
+d5b88c9b-5443-4bb5-ae96-d35cf8f878bb,Renner,Theres,,FraP,,0,Theres Renner
+fb4666dd-c057-4b5b-a649-05e621a707ba,Richli,Mark,,SP, 3,101,Mark Richli
+458e62cd-e3eb-42b1-86f1-3135a4ed95a4,Richter,Derek,,SVP, 3,101,Derek Richter
+8755989c-579e-40f1-bf7a-944380f01283,Rieser-Asper,Vreni,,EVP,,0,Vreni Rieser-Asper
+2b78a4e8-7656-4eec-961b-1780ec60d481,Riklin,Kathy,Dr.,CVP,,0,Kathy Riklin
+8a337776-6ba0-4af4-b19a-df1fff532938,Riklin,Urs,,Grüne, 3,101,Urs Riklin
+9c21d391-d549-4168-a485-90f233a27f93,Rodriguez,Roberto,,SP,,0,Roberto Rodriguez
+ad19c2cb-10d3-426a-a915-45763615ca0c,Romanelli,Olivia,,AL,1 und 2,100,Olivia Romanelli
+e6af846e-0b42-40c5-9038-773101e24996,Rom-Bernheim,Caroline,,,,0,Caroline Rom-Bernheim
+6522fcd5-2382-4e85-a802-17a0a419d123,Roose,Zilla,,SP, 6,103,Zilla Roose
+9cb2e9d9-9a46-403a-bd8d-1871962a9f11,Rosenheim,Monjek,,FDP,,0,Monjek Rosenheim
+17e0b98e-a098-4b0b-b9d6-49e3f3148bdb,Roth,Mark,,SP,,0,Mark Roth
+ffdb6c23-52ac-493a-a50b-ecb47a354a39,Rothenfluh,Gabriela,,SP,,0,Gabriela Rothenfluh
+0e7fb39a-8768-47e2-88c9-1351d20d80d1,Roy,Shaibal,,GLP,4 und 5,102,Shaibal Roy
+b2773d48-6b09-43e7-8f49-30cccfe48ed0,Rudolf,Reto,,CVP,,0,Reto Rudolf
+4e7ecfbc-901a-464e-97bc-2345264925d1,Rüegg,Andreas,,SP,,0,Andreas Rüegg
+31b3e0eb-8606-4f77-8247-cd67f5fe606a,Rüegg,Luzi,,SVP,,0,Luzi Rüegg
+3475e92d-802d-4a61-9b2b-6f622d3ca851,Rust-Binder,Brigitte,,Grüne,,0,Brigitte Rust-Binder
+66f0a29b-0ebb-47b8-8810-426ea3570c89,Rutherfoord,Catherine,,AL,,0,Catherine Rutherfoord
+0f6fcb9a-e23f-4cb4-bf0b-1bfe78ffa928,Rütsche,Claudia,Dr.,CVP,,0,Claudia Rütsche
+3df84d12-4425-4f21-a8f0-ba86c69f4203,Rykart Sutter,Karin,,Grüne,,0,Karin Rykart Sutter
+11b57498-c723-4357-8341-2c74063dc2fb,Sanders,Eva,,SP,,0,Eva Sanders
+3c84712a-df95-48f7-b76e-d95540209bdb,Sangines,Alan David,,SP, 9,105,Alan David Sangines
+d6cfb60a-148d-4a22-87fc-6d3568e9ea69,Sarbach,Martin,Dr.,SP,,0,Martin Sarbach
+2658f62b-9db8-4572-97d4-4e02c44d5f4c,Savarioud,Marcel,,SP,12,108,Marcel Savarioud
+600c20e6-acba-4933-89a4-75e686a9ad96,Schäfli,Corinne,,AL,,0,Corinne Schäfli
+78936b83-6b9e-4f4b-abc3-4d0cb0453917,Schaller-Stierle,Geri,,SP,,0,Geri Schaller-Stierle
+3d901c5e-de6b-4943-8f37-739b1d5c7bb3,Schatt,Heinz,,SVP,12,108,Heinz Schatt
+934839de-2293-4024-9303-ccc32f01d340,Schaub,Cornelia,,SVP,,0,Cornelia Schaub
+da8ee4ca-fb7d-4082-b536-e939f9c74ed5,Scheck,Roland,,SVP,,0,Roland Scheck
+ee86db77-a1a9-4def-8b78-b5e4ecd27c9a,Scherr,Niklaus,,AL,,0,Niklaus Scherr
+e8e2757e-5a19-4b22-b144-bf1cb7b82b29,Schick,Peter,,SVP,,0,Peter Schick
+b17186da-504a-47a5-852e-e9e8c305ab47,Schicker,Daniela,,AL,,0,Daniela Schicker
+d2faaa00-3795-451c-9f72-1d17ebee399b,Schiller,Christina,,AL, 9,105,Christina Schiller
+d058d634-f202-404b-8f09-bdb16805ad32,Schilter,Armin,,SVP,,0,Armin Schilter
+ddcd41f6-9873-4002-80d8-dfd87114c9a5,Schiwow,Mischa,,AL,7 und 8,104,Mischa Schiwow
+9f55e8ae-2527-4d19-bff4-10ebf5dd7b50,Schlatter,Hedy,,SVP,,0,Hedy Schlatter
+3e679a19-0cb7-4704-8f43-063f09587738,Schlegel,Andreas J.,Dr.,,,0,Andreas J. Schlegel
+80003246-802e-4f37-905c-2898890583fb,Schlieper,Marc,,FDP,,0,Marc Schlieper
+fb67fbb3-d662-48ed-987c-89a9cfbdd2d6,Schmid,Georg,Dr.,CVP,,0,Georg Schmid
+41a05283-162c-4329-b559-ad2ad160f9c9,Schmid,Marion,,SP,1 und 2,100,Marion Schmid
+44bd957f-d477-4584-bdd0-ab5163b8e4bb,Schmid,Markus,,CVP,,0,Markus Schmid
+f68282d3-d683-48cf-ade1-c08da3dd76da,Schmid,Michael,,FDP,1 und 2,100,Michael Schmid
+c9a2a4aa-8499-4d1e-bc67-07085a838235,Schmid,Ronald,,FDP,,0,Ronald Schmid
+e32b5fd1-9a00-44d2-ae01-618d21ebf97f,Schmid,Urs,,FDP,,0,Urs Schmid
+09d6a7ef-0db5-4679-8b46-43eaf7b3a5b9,Schoch,Elisabeth,,FDP,4 und 5,102,Elisabeth Schoch
+09742ae9-09e0-42d3-b211-10e6bd086240,Schoch,Hans,,Grüne,,0,Hans Schoch
+01d26cdd-6772-4cef-bf57-5fa8db1ffa88,Schoch,Renate,,AL,,0,Renate Schoch
+a837c86b-b67a-4f45-ba29-c87fda16e402,Schönbächler,Marcel,Dr.,CVP,,0,Marcel Schönbächler
+b93d4239-4d88-4dd1-8378-72854e4da0f1,Schönbächler,Robert,,CVP,,0,Robert Schönbächler
+8e2c47ea-b9db-475f-8aa3-496098111b88,Schönenberger-Meier,Katrin,,EVP,,0,Katrin Schönenberger-Meier
+71570933-1ad1-4efa-8805-9c4e53e52a07,Schüepp,Jürg R.,,FDP,,0,Jürg R. Schüepp
+9eb41597-6dc5-4f2c-b900-64bb308fb2bf,Schwendener,Thomas,,SVP,11,107,Thomas Schwendener
+9e5cb69e-49f7-44cb-a944-958fb31af51b,Schwyn,Markus,,PFZ,,0,Markus Schwyn
+2275a6cb-a1be-496b-bf41-dd145fd538e5,Scotoni,Silvio,,FDP,,0,Silvio Scotoni
+42817325-1645-42da-bd71-a34faa5e597b,Seidler,Christine,Prof.,SP, 9,105,Christine Seidler
+63ecb329-2296-4c42-a2ba-e005e2570267,Seiz,Silvia,,SP,,0,Silvia Seiz
+66f8d52f-7a20-42f8-acb2-1439e41efa00,Seliner,Emil,,SP,,0,Emil Seliner
+3b8fe11e-68ed-4ee6-95f4-d9b223e01b06,Seliner-Müller,Gaby,,SP,,0,Gaby Seliner-Müller
+8ae2b81e-3866-473d-b4f3-91d75d491859,Señorán,Maria del Carmen,,SVP,1 und 2,100,Maria del Carmen Señorán
+181409b4-49a1-4543-9ac7-9dc8ae516704,Sidler,Bruno,,SVP,,0,Bruno Sidler
+fc872539-1bed-43f9-9070-157530edff85,Sieg,Werner,Prof. Dr.,SP,,0,Werner Sieg
+e2bf044b-bf01-412c-bcff-987d8d42cf38,Siegenthaler-Benz,Rolf André,,SVP,,0,Rolf André Siegenthaler-Benz
+058af0e5-dd56-4d66-a90b-4b9994b553fe,Siev,Ronny,,GLP,10,106,Ronny Siev
+134938d9-58d3-4b43-9bdf-e60b5b698aef,Silberring,Pawel,Dr.,SP,1 und 2,100,Pawel Silberring
+85646468-766b-4031-a384-0ac4baa0398c,Silberschmidt,Andri,,FDP,7 und 8,104,Andri Silberschmidt
+1419b16c-d4f7-4bf1-9385-8b64d8842b8f,Simon,Claudia,,FDP,,0,Claudia Simon
+315b5eab-efff-4378-b38f-f7a2c62ed27a,Sinovcic,Dubravko,,SVP,1 und 2,100,Dubravko Sinovcic
+e77ac228-d6c5-42ee-9862-6a2cfeb1605f,Sobernheim,Sven,,GLP,11,107,Sven Sobernheim
+1dc3ada6-df86-418f-9851-f6e3f275d6a8,Sörensen,Hansjörg,,FDP,,0,Hansjörg Sörensen
+a560cbd2-345a-4b73-b55b-ee7386ebef9e,Speck,Roger-Paul,,SP,12,108,Roger-Paul Speck
+0c5734ba-99cf-488d-8c10-38b9d7d01051,Spieler Frauenfelder,Marianne,,SP,,0,Marianne Spieler Frauenfelder
+1ef23122-f07e-4b5d-9d28-df0b25e4ab1d,Spiess,Christoph,,SD,,0,Christoph Spiess
+944eeb77-e2cc-4051-972a-529465ded002,Spring-Gross,Monika,,SP,,0,Monika Spring-Gross
+eb4b9291-ca30-4c66-9750-92090f89484b,Stäbler,Anton,,,,0,Anton Stäbler
+31ccba24-215a-4ed8-80f8-b57b68d3d349,Stähli-Barth,Peter,Prof. Dr.,SP,,0,Peter Stähli-Barth
+d4664b7d-5c9e-435a-b184-7dc550488db7,Steger,Heinz F.,,FDP,,0,Heinz F. Steger
+42b386e9-ca9b-4d1e-a425-1330acab9973,Steiner,Jonas,,SP,,0,Jonas Steiner
+8f1a4455-893f-4cd6-87e7-3eaa78394612,Steiner,Kathy,,Grüne,,0,Kathy Steiner
+c9d6f864-b8e3-47fd-919a-dbb09b697a42,Steiner,Romeo,,CVP,,0,Romeo Steiner
+f450c1f7-49f1-44ed-9377-1f3d4bcc1db4,Stocker,Felix,,SP,,0,Felix Stocker
+4948976d-a9b0-4d7f-beaf-782feca6e7f0,Stokar Gasser,Christine,,SP,,0,Christine Stokar Gasser
+f3f3131e-edc9-4db3-a4d3-fc4f93f2c529,Straub,Esther,Dr.,SP,,0,Esther Straub
+e5856807-c783-458c-985c-391692d6d834,Strub,Jean-Daniel,Dr.,SP,7 und 8,104,Jean-Daniel Strub
+66f8487f-4b03-485f-ac54-9aed435413a3,Stucker,Rolf,,SVP,,0,Rolf Stucker
+3d872710-1136-410e-b4c2-46b47c758db4,Studer,Myrta,,SP,,0,Myrta Studer
+594477d9-646e-4fd7-95e8-6b317e4ebc3c,Sutter,Walter,,SVP,,0,Walter Sutter
+b6fb585d-cb29-454b-b14a-aad637405ce5,Tobler,Marcel,,SP,4 und 5,102,Marcel Tobler
+825524e7-6daa-42f9-82c7-63d3311304a6,Tobler,Sabine,,SP,,0,Sabine Tobler
+a279855d-9839-44b9-8077-c9d83243966a,Toggweiler,Theo,Dr.,SVP,,0,Theo Toggweiler
+9839bb97-ee67-4c59-beb3-f11530f5ed68,Tognella,Roger,,FDP,12,108,Roger Tognella
+3bc91ea7-3151-48c1-ae83-4280d6d049c9,Tomezzoli,Ruggero,,SVP,,0,Ruggero Tomezzoli
+3124d029-28b3-4cda-818b-c79c5a08ffe8,Tozzi Kelly,Lucia,,SP,,0,Lucia Tozzi Kelly
+eed3d593-e4bc-4e17-941a-8ab8cfc16dab,Traber,Christian,,CVP,,0,Christian Traber
+b61de9ff-bb26-427b-b539-7677328939df,Tremp,Johanna,,SP,,0,Johanna Tremp
+4a958e40-5a09-42d3-89a7-9795ddd6adbe,Trevisan,Guido,,GLP,,0,Guido Trevisan
+7eac8fff-c1c9-40c2-ba80-62338a806dd2,Trottmann,Maria,,GLP,,0,Maria Trottmann
+15824dc2-6f3e-4b2b-90c3-e8f43ac4d54a,Tschanz,Raphaël,,FDP, 3,101,Raphaël Tschanz
+3cc66c2d-4751-4c99-9a71-ba309986d053,Tschopp,Kurt,,CVP,,0,Kurt Tschopp
+5fa0300b-e844-4a35-bab7-845de1a7f685,Tuena,Mauro,,SVP,,0,Mauro Tuena
+f00e5a1f-096e-4ea8-9293-f306bf55f23a,Türler,Andres,,FDP,,0,Andres Türler
+6902ac68-1c90-4a20-9e56-b09511f901da,Ulcay-Hauser,Raphaela-Franziska,,SVP,,0,Raphaela-Franziska Ulcay-Hauser
+2dfb2dd1-92e7-4b7c-9632-aaed0d799ffd,Urben,Michel,,SP,11,107,Michel Urben
+0ba896b5-0082-45e9-aedc-abfb7ee12efd,Urech,Stefan,,SVP,4 und 5,102,Stefan Urech
+cba31443-201a-426d-adfe-506c25f4a6c0,Urech-Bürgi,Marianne,,FDP,,0,Marianne Urech-Bürgi
+2183638f-f397-4fce-90af-ee75804d87cc,Ursprung,Corina,,FDP, 6,103,Corina Ursprung
+375918e4-7952-4f01-8edc-a0335e977266,Uttinger,Ursula,,FDP,,0,Ursula Uttinger
+40f0e131-1e71-4279-8b84-826d9a12de52,Utz,Florian,,SP,10,106,Florian Utz
+9d35d2ed-9965-42b4-9f02-40139ca0152b,Vieli-Hardegger,Luzia,Dr.,LdU,,0,Luzia Vieli-Hardegger
+8a845628-1250-42de-be3f-c4c546d1a333,Virag Jansen,Eva,Dr.,Grüne,,0,Eva Virag Jansen
+d9abcf7d-8d24-4f7d-a39c-9494fc9a6432,Virchaux,Jean-Claude,,CVP,,0,Jean-Claude Virchaux
+14af4fad-83d0-44a7-96de-6cc78504479f,Vocat,Fabienne,,Grüne,,0,Fabienne Vocat
+542a729c-4ec3-4f2b-bf79-3d84414560cf,Vogel,Sebastian,,FDP, 6,103,Sebastian Vogel
+69b98790-9654-41a4-986a-ade2e4fafb54,Vogelbacher,Reto,,CVP,,0,Reto Vogelbacher
+43365158-d5d3-4626-991d-9e572b62d5b7,Vögeli,Esther,,SP,,0,Esther Vögeli
+555e97ba-7331-4656-8a86-4aebc280a03c,Vohdin,Christopher,,SVP,,0,Christopher Vohdin
+80dc5186-bff6-4fba-b2d8-fe83a639f6f7,Vollenwyder,Martin,,FDP,,0,Martin Vollenwyder
+506aeb5c-0847-4c7f-98db-8e87198f006a,von Matt,Hans Urs,,SP,,0,Hans Urs von Matt
+4e65435c-faad-4fbb-9558-8df01f60e233,von Niederhäusern,Hans,,SP,,0,Hans von Niederhäusern
+9680d20e-8dbb-4ec9-ae19-9a3280adde71,von Planta,Gian,,GLP,,0,Gian von Planta
+ac6f3038-9904-47c7-90ca-54f5bbf0cced,Walker,Sacha,,GLP,,0,Sacha Walker
+2fb7685f-8314-4b48-9245-af052371275d,Walther,Rolf,,FDP,,0,Rolf Walther
+c38dd2cb-edeb-482a-8297-f5c4529c753e,Weber,Alexander,,SVP,,0,Alexander Weber
+ab3ca6ab-4ea1-42fe-8da1-137d142a03ec,Weber,Doris,Dr.,FDP,,0,Doris Weber
+cc5f864d-02d3-4019-a7c7-accfdacaec46,Wehrli,Werner,,EVP,,0,Werner Wehrli
+8c8a618c-730d-4a3d-96da-76c5c55e2fc7,Weibel Waser,Esther,,SP,,0,Esther Weibel Waser
+aae948c6-6684-4b6d-a80b-2d7f0c29dc07,Weiss,Urs,,SVP,,0,Urs Weiss
+19c57967-cce6-4093-b55c-9f8072305046,Wenger,Christian,,SD,,0,Christian Wenger
+783d4e82-744b-4c4b-ab55-d25f226192d8,Wepf,Mirella,,SP,,0,Mirella Wepf
+621f34f2-b784-4bcf-a54a-a15a02234082,Wey,Natascha,,SP,1 und 2,100,Natascha Wey
+46841f3c-e363-40f7-bef9-4efafe160e51,Weyermann,Karin,,CVP,,0,Karin Weyermann
+03253df4-4710-4351-ae5a-c498c5982d32,Wick,Guido,,FDP,,0,Guido Wick
+b06a433d-a857-4332-94f4-ff54945cc26f,Widler,Josef,Dr.,CVP,,0,Josef Widler
+9b84062d-7433-46c6-a02f-65ad23a4cf59,Widmer,Johann,,SVP,10,106,Johann Widmer
+3685b9b0-82b8-4a35-ad99-b1a5adf685ea,Widmer,Katharina,,SVP,,0,Katharina Widmer
+01d383b3-778f-487a-b6b8-e1181d92004e,Widmer,Marianne,,SD,,0,Marianne Widmer
+88f2723f-aa5d-4c1b-92c8-7ca51ab365f1,Widmer Graf,Andrea,Dr.,FDP,,0,Andrea Widmer Graf
+8e3dd0e2-358c-447d-8c35-2916a87d44c5,Wiesmann,Barbara,,SP, 3,101,Barbara Wiesmann
+b8cabf64-1be6-40b8-bc2b-6081d142edc9,Wiesmann,Matthias,,GLP,,0,Matthias Wiesmann
+4e808200-90e7-4a58-9a28-73f77ba69a20,Willenegger,Lisa Magdalena,,FDP,,0,Lisa Magdalena Willenegger
+f728604e-990f-4105-9abe-aba13fa70783,Wirth,Kurt,,,,0,Kurt Wirth
+77deb0b4-796e-43e5-ad35-1da34189a84f,Wohler,Bruno,,SVP,,0,Bruno Wohler
+1425b494-1573-4a48-957f-945d966d7727,Wolff,Richard,Dr.,AL,,0,Richard Wolff
+6e1427aa-d228-4d01-8bd1-f8fbd024e7da,Würth,Eva-Maria,,SP,,0,Eva-Maria Würth
+f86e6439-c52d-48e6-84de-dca3fdc8bcea,Wüthrich,Katrin,,SP,,0,Katrin Wüthrich
+e28dd7b9-87e9-4953-8b59-a1b49b639300,Wyler,Rebekka,,SP,,0,Rebekka Wyler
+9327d2a1-826a-41f6-bef6-f7b34887a25e,Wyss,Thomas,,Grüne,,0,Thomas Wyss
+76328c20-7cf2-4196-b1cc-022d9f9ff35f,Zenger,Armin W.,Dr.,LdU,,0,Armin W. Zenger
+c0973074-7d99-4e61-a955-636b4a65b287,Z'graggen,Marcel,,CVP,,0,Marcel Z'graggen
+42e35652-aabb-441f-90f8-608d16d23ac1,Zihlmann,Karl,,CVP,,0,Karl Zihlmann
+92d93666-6bea-45f6-aa6c-aa6b1bfda7d7,Zimmerling Enkelmann,Anita,,SP,,0,Anita Zimmerling Enkelmann
+8e20272b-f18c-4217-a25f-6a925c90ff29,Zimmermann,Markus,,SP,,0,Markus Zimmermann
+4ff86272-b46f-4342-8dab-dff5eb97f808,Ziswiler,Vera,,SP, 3,101,Vera Ziswiler
+1e4922dc-7cf3-4b07-817c-d6e668335fd0,Zollinger,Ruth,,FraP,,0,Ruth Zollinger
+b347ba87-16d4-48a9-ab6d-da68d9e2fe99,Zschokke,Rose,,SP,,0,Rose Zschokke
+74a85566-4fff-444b-a632-56057f27410d,Züllig,Hansueli,,SVP,,0,Hansueli Züllig
+6b4194d7-b83b-411d-bc33-865df213c39d,Zürcher,Geraldine,,SP,,0,Geraldine Zürcher
+3b4bbd28-c4d5-4e62-b4f3-0f32b8a7589b,Zürcher,Martina,,FDP,10,106,Martina Zürcher
+d9647ff7-bcea-469f-8d26-404c3bdb5764,Zweifel,Karl,Dr.,SVP,,0,Karl Zweifel
+6786f4ed-9d22-420e-a909-8d732dda6b5c,Zygmont,Dominique,,FDP,7 und 8,104,Dominique Zygmont
